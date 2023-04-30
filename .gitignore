@@ -1,0 +1,6 @@
+# Data files
+database.sqlite
+# Conda environment
+cs4650env/
+*.yaml
+*.lock
